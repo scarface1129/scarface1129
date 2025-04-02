@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Web Developer
 ---------------------
 
-A backend web developer with 3 years of experience in using Django, PHP, and Laravel to create web applications. Specializes in developing databases and writing server-side code to create dynamic websites, web applications, and web services.
+A seasoned backend web developer with 4 years of experience specializing in Django, PHP, and Laravel. Skilled in designing robust databases and writing efficient server-side code to power dynamic websites, web applications, and web services. Dedicated to building scalable and high-performance solutions that enhance user experience and business efficiency.
 
 *   🌍  I'm based in Enugu, Nigeria
 *   ✉️  You can contact me at [agboemmanuel002@gmail.com](mailto:agboemmanuel002@gmail.com)
-*   🧠  I'm learning Data Structure and Algorithm
+*   🧠  I'm learning Nest js, Typescript, Node Js, Data Structure and Algorithm
 *   ⚡  I love to play Basketball<a href="https://www.github.com/https://github.com/scarface1129" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/https://github.com/scarface1129?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills 
