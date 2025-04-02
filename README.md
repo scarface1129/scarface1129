@@ -6,7 +6,7 @@ Backend Web Developer
 
 A seasoned backend web developer with 4 years of experience specializing in Django, PHP, and Laravel. Skilled in designing robust databases and writing efficient server-side code to power dynamic websites, web applications, and web services. Dedicated to building scalable and high-performance solutions that enhance user experience and business efficiency.
 
-*   🌍  I'm based in Enugu, Nigeria
+*   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [agboemmanuel002@gmail.com](mailto:agboemmanuel002@gmail.com)
 *   🧠  I'm learning Nest js, Typescript, Node Js, Data Structure and Algorithm
 *   ⚡  I love to play Basketball<a href="https://www.github.com/https://github.com/scarface1129" target="_blank" rel="noreferrer"><img
